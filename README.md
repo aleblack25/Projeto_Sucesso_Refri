@@ -20,10 +20,6 @@ Cada item possui uma cor de fundo, imagem da fruta e imagem do refrigerante.
 A navegação é feita pelos botões de seta.
 
 
-## 📸 Preview 
-https://aleblack25.github.io/Projeto_Sucesso_Refri/
-
-
 ## 🖼️ Funcionalidades
 
 - Layout moderno
