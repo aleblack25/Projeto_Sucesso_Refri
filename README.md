@@ -27,7 +27,7 @@ Projeto desenvolvido com **HTML, CSS e JavaScript** que apresenta um carrossel i
 Adicione uma imagem do projeto na pasta `assets` ou `img`:
 
 ```md
-![Preview do projeto] https://aleblack25.github.io/Projeto_Sucesso_Refri/
+https://aleblack25.github.io/Projeto_Sucesso_Refri/
 ```
 
 ## 📂 Estrutura do Projeto
