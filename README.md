@@ -1,38 +1,38 @@
-# Projeto Refri com Sucesso 🥤🍓🥑🍊
+# 🥤 Projeto Refri Sucesso
 
-Projeto desenvolvido com **HTML, CSS e JavaScript**, criando uma página interativa de refrigerantes com diferentes sabores e navegação por setas.
+Projeto desenvolvido com **HTML, CSS e JavaScript** que apresenta um carrossel interativo de refrigerantes com diferentes sabores e cores.
 
-## 🚀 Tecnologias utilizadas
+## 🚀 Tecnologias Utilizadas
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
-## 📌 Sobre o projeto
+## ✨ Funcionalidades
 
-O projeto apresenta uma interface visual com refrigerantes de sabores diferentes:
+* Navegação entre os sabores
+* Transições entre os slides
+* Alteração dinâmica das cores de fundo
+* Layout moderno e responsivo
+* Botões de navegação (anterior e próximo)
 
-- Strawberry 🍓
-- Avocado 🥑
-- Orange 🍊
+## 🍓 Sabores Apresentados
 
-Cada item possui uma cor de fundo, imagem da fruta e imagem do refrigerante.  
-A navegação é feita pelos botões de seta.
+* Strawberry (Morango)
+* Avocado (Abacate)
+* Outros sabores do projeto
 
+## 📸 Preview
 
-## 🖼️ Funcionalidades
+Adicione uma imagem do projeto na pasta `assets` ou `img`:
 
-- Layout moderno
-- Troca de itens com botões
-- Imagens de frutas e refrigerantes
-- Background personalizado por sabor
-- Estrutura preparada para animações com JavaScript
+```md
+![Preview do projeto] https://aleblack25.github.io/Projeto_Sucesso_Refri/
+```
 
-## 📁 Estrutura do projeto
+## 📂 Estrutura do Projeto
 
-```text
-projeto-refri/
-│
+```bash
 ├── index.html
 ├── style.css
 ├── script.js
@@ -40,6 +40,25 @@ projeto-refri/
     ├── Morango-fruta.png
     ├── Morango-refrigerante.png
     ├── Abacate-fruta.png
-    ├── Abacate-refrigerante.png
-    ├── Laranja-fruta.png
-    └── Laranja-refrigerante.png
+    └── Abacate-refrigerante.png
+```
+
+## ▶️ Como Executar
+
+1. Clone o repositório.
+2. Abra a pasta no VS Code.
+3. Execute o arquivo `index.html`.
+4. Utilize a extensão Live Server para visualizar o projeto.
+
+## 🧠 Conceitos Praticados
+
+* Manipulação do DOM
+* `querySelectorAll()`
+* Adição e remoção de classes
+* Eventos de clique
+* CSS moderno e animações
+* Organização de arquivos Front-End
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Alexandre Costa** durante os estudos de Front-End.
